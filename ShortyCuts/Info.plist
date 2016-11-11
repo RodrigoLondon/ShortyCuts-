@@ -46,12 +46,25 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UISupportedInterfaceOrientations~ipad</key>
+	<key>UISupportedInterfaceOrientations~iphone</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIApplicationShortcutItems</key>
+	<array/>
+	<key>Item 0 </key>
+	<dict>
+		<key>UIApplicationShortcutItemIconType</key>
+		<string>UIApplicationShortcutIconTypeShare</string>
+		<key>UIApplicationShortcutItemSubtitle</key>
+		<string>Get top results</string>
+		<key>UIApplicationShortcutItemTitle</key>
+		<string>Search</string>
+		<key>UIApplicationShortcutItemType</key>
+		<string>Search</string>
+	</dict>
 </dict>
 </plist>
